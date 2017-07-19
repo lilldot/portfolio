@@ -1,0 +1,36 @@
+@if($unslider-dot-navigation){
+	.#{$unslider-namespace}-nav, %#{$unslider-namespace}-nav {
+		ol {
+			list-style: none;
+			text-align: center;
+
+			li {
+				display: inline-block;
+				width: 6px;
+				height: 6px;
+				margin: 0 4px;
+				float: none;
+
+				background: transparent;
+				border-radius: 5px;
+
+				overflow: hidden;
+				text-indent: -999em;
+
+				border: 2px solid $unslider-ctl-color;
+				opacity: 0.6;
+				padding: 3px;
+				cursor: pointer;
+
+				&.unslider-active {
+					background: $unslider-ctl-color;
+					cursor: default;
+					opacity: 0.8;
+				}
+				&:hover {
+					background: $unslider-ctl-color;
+				}
+			}
+		}
+	}
+}

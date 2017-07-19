@@ -1,0 +1,28 @@
+[
+  {
+    "key": "skills",
+    "color": "#527a82",
+    "values": [
+        { 
+        "label" : "Omnigraffle" ,
+        "value" : 60
+      } , 
+        {
+        "label" : "Photoshop" ,
+        "value" : 20
+      } , 
+      { 
+        "label" : "Illustrator" ,
+        "value" : 15
+      } , 
+      { 
+        "label" : "Keynote" ,
+        "value" : 5
+      },
+      { 
+        "label" : "Keynote" ,
+        "value" : 5
+      }
+    ]
+  }
+]

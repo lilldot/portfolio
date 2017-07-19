@@ -1,0 +1,24 @@
+[
+  {
+    "key": "os experience",
+    "color": "#6aaaa6",
+    "values": [
+        { 
+        "label" : "Web Applications" ,
+        "value" : 60
+      } , 
+        {
+        "label" : "iPhone" ,
+        "value" : 20
+      } , 
+      { 
+        "label" : "iPad" ,
+        "value" : 15
+      } , 
+      { 
+        "label" : "Android" ,
+        "value" : 5
+      }
+    ]
+  }
+]

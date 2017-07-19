@@ -1,0 +1,40 @@
+[
+  {
+    "key": "process",
+    "color": "#111",
+    "values": [
+        {
+        "label" : "Product Definition" ,
+        "value" : 0.05
+      } ,
+        {
+        "label" : "User Research" ,
+        "value" : 0.09
+      } ,
+      {
+        "label" : "IA & User Flow" ,
+        "value" : 0.15
+      } ,
+      {
+        "label" : "Wireframes" ,
+        "value" : 0.23
+      } ,
+      {
+        "label" : "Interactive Prototype" ,
+        "value" : 0.15
+      } ,
+      {
+        "label" : "Visual Design" ,
+        "value" : 0.15
+      } ,
+      {
+        "label" : "Specifications & Assets" ,
+        "value" : 0.03
+      } ,
+      {
+        "label" : "Front End Development" ,
+        "value" : 0.15
+      }
+    ]
+  }
+]

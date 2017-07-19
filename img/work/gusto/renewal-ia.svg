@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="768px" viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>User Flow Automated</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="90" rx="3"></rect>
+        <rect id="path-2" x="0" y="0" width="90" height="90" rx="3"></rect>
+        <rect id="path-3" x="0" y="0" width="90" height="90" rx="3"></rect>
+        <rect id="path-4" x="0" y="0" width="90" height="90" rx="3"></rect>
+        <rect id="path-5" x="0" y="0" width="90" height="90" rx="3"></rect>
+        <rect id="path-6" x="0" y="0" width="70" height="70" rx="35"></rect>
+        <rect id="path-7" x="0" y="0" width="90" height="90" rx="3"></rect>
+        <rect id="path-8" x="11" y="11" width="50" height="50" rx="3"></rect>
+        <rect id="path-9" x="11" y="11" width="50" height="50" rx="3"></rect>
+        <rect id="path-10" x="11" y="11" width="50" height="50" rx="3"></rect>
+        <rect id="path-11" x="0" y="0" width="90" height="90" rx="3"></rect>
+        <rect id="path-12" x="11" y="11" width="50" height="50" rx="3"></rect>
+        <rect id="path-13" x="11" y="11" width="50" height="50" rx="3"></rect>
+        <rect id="path-14" x="11" y="11" width="50" height="50" rx="3"></rect>
+        <rect id="path-15" x="0" y="0" width="70" height="70" rx="35"></rect>
+        <rect id="path-16" x="0" y="0" width="70" height="70" rx="35"></rect>
+        <rect id="path-17" x="0" y="0" width="60" height="60" rx="3"></rect>
+        <rect id="path-18" x="0" y="0" width="70" height="70" rx="35"></rect>
+        <rect id="path-19" x="11" y="11" width="50" height="50" rx="3"></rect>
+    </defs>
+    <g id="Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="User-Flow-Automated">
+            <g id="Survey" transform="translate(114.000000, 36.000000)">
+                <g id="Rectangle-1">
+                    <use fill="#D9F3F4" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#39B4BD" stroke-width="1" x="0.5" y="0.5" width="89" height="89" rx="3"></rect>
+                </g>
+                <text font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#05828E">
+                    <tspan x="26.9831542" y="49">Survey</tspan>
+                </text>
+            </g>
+            <g id="Survey-Copy-3" transform="translate(456.000000, 34.000000)">
+                <g id="Rectangle-1">
+                    <use fill="#EDEDED" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#9B9B9B" stroke-width="1" x="0.5" y="0.5" width="89" height="89" rx="3"></rect>
+                </g>
+                <text id="Hippo" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#666666">
+                    <tspan x="28.3424478" y="50">Hippo</tspan>
+                </text>
+            </g>
+            <g id="Package-Home" transform="translate(732.000000, 344.000000)">
+                <g id="Rectangle-1">
+                    <use fill="#FFF6E1" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#F4B414" stroke-width="1" x="0.5" y="0.5" width="89" height="89" rx="3"></rect>
+                </g>
+                <text id="Default" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#CF9911">
+                    <tspan x="24.6695148" y="42">Default</tspan>
+                    <tspan x="22.3626301" y="57">Package</tspan>
+                </text>
+            </g>
+            <g id="Package-Home-Copy-4" transform="translate(361.000000, 498.000000)">
+                <g id="Rectangle-1">
+                    <use fill="#D9F3F4" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#39B4BD" stroke-width="1" x="0.5" y="0.5" width="89" height="89" rx="3"></rect>
+                </g>
+                <text id="Confirmation" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#05828E">
+                    <tspan x="9.10636371" y="49">Confirmation</tspan>
+                </text>
+            </g>
+            <g id="Package-Home-Copy-4" transform="translate(361.000000, 613.000000)">
+                <g id="Rectangle-1">
+                    <use fill="#D9F3F4" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <rect stroke="#39B4BD" stroke-width="1" x="0.5" y="0.5" width="89" height="89" rx="3"></rect>
+                </g>
+                <text id="Success" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#05828E">
+                    <tspan x="23.9314777" y="49">Success</tspan>
+                </text>
+            </g>
+            <path d="M404.5,585.5 L404.5,610.002777" id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" stroke="#39B4BD" stroke-width="3"></path>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-decoration-1" d="M401.5,599.202777 L404.5,610.002777 L407.5,599.202777" stroke="#39B4BD" stroke-width="3"></path>
+            <g id="Package-Home-Copy-3" transform="translate(462.000000, 362.000000)">
+                <g id="Rectangle-1">
+                    <use fill="#D9F3F4" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <rect stroke="#39B4BD" stroke-width="1" x="0.5" y="0.5" width="69" height="69" rx="34.5"></rect>
+                </g>
+                <text id="Vision" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.602380991" fill="#05828E">
+                    <tspan x="18.2043045" y="37.1521739">Vision</tspan>
+                </text>
+            </g>
+            <g id="Survey" transform="translate(732.000000, 106.000000)">
+                <g id="Rectangle-1">
+                    <use fill="#D9F3F4" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <rect stroke="#39B4BD" stroke-width="1" x="0.5" y="0.5" width="89" height="89" rx="3"></rect>
+                </g>
+                <text id="Recommended" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#05828E">
+                    <tspan x="3.53336567" y="43">Recommended</tspan>
+                    <tspan x="22.3626301" y="58">Package</tspan>
+                </text>
+            </g>
+            <g id="Survey-Copy-5" transform="translate(901.000000, 352.000000)">
+                <g id="Rectangle-1" transform="translate(36.000000, 36.000000) rotate(-315.000000) translate(-36.000000, -36.000000) ">
+                    <use fill="#E3F4E1" fill-rule="evenodd" xlink:href="#path-8"></use>
+                    <rect stroke="#209B13" stroke-width="1" x="11.5" y="11.5" width="49" height="49" rx="3"></rect>
+                </g>
+                <text id="Happy" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#209B13">
+                    <tspan x="18.3353677" y="41">Happy</tspan>
+                </text>
+            </g>
+            <g id="Survey-Copy" transform="translate(268.000000, 45.000000)">
+                <g id="Rectangle-1" transform="translate(36.000000, 36.000000) rotate(-315.000000) translate(-36.000000, -36.000000) ">
+                    <use fill="#FFE9EF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    <rect stroke="#F56A8C" stroke-width="1" x="11.5" y="11.5" width="49" height="49" rx="3"></rect>
+                </g>
+                <text id="Sad" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#F23965">
+                    <tspan x="26.364746" y="41">Sad</tspan>
+                </text>
+            </g>
+            <g id="Survey-Copy-4" transform="translate(741.000000, 236.000000)">
+                <g id="Rectangle-1" transform="translate(36.000000, 36.000000) rotate(-315.000000) translate(-36.000000, -36.000000) ">
+                    <use fill="#FFE9EF" fill-rule="evenodd" xlink:href="#path-10"></use>
+                    <rect stroke="#F56A8C" stroke-width="1" x="11.5" y="11.5" width="49" height="49" rx="3"></rect>
+                </g>
+                <text id="Sad" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#F23965">
+                    <tspan x="26.364746" y="41">Sad</tspan>
+                </text>
+            </g>
+            <path d="M824,151 L936.517578,151 L936.517578,356" id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978" stroke="#B5E5E8" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"></path>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-decoration-1" d="M933.517578,345.2 L936.517578,356 L939.517578,345.2" stroke="#B5E5E8" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"></path>
+            <polyline id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978" stroke="#B5E5E8" stroke-width="2" stroke-linecap="square" stroke-linejoin="round" points="538 323 616.631585 323 616.631585 150 727.683594 150"></polyline>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-decoration-1" d="M716.883594,153 L727.683594,150 L716.883594,147" stroke="#B5E5E8" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"></path>
+            <polyline id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy" stroke="#39B4BD" stroke-width="3" points="937 425.527344 937 455 419 455 419 365"></polyline>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-decoration-1" d="M422,375.8 L419,365 L416,375.8" stroke="#39B4BD" stroke-width="3"></path>
+            <path d="M772,345 L772,307" id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-Copy-Copy" stroke="#B5E5E8" stroke-width="2"></path>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-Copy-Copy-decoration-1" d="M775,317.8 L772,307 L769,317.8" stroke="#B5E5E8" stroke-width="2"></path>
+            <path d="M772,239 L772,200" id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-Copy-Copy-Copy" stroke="#B5E5E8" stroke-width="2"></path>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-Copy-Copy-Copy-decoration-1" d="M775,210.8 L772,200 L769,210.8" stroke="#B5E5E8" stroke-width="2"></path>
+            <path d="M782,306 L782,344" id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-Copy-Copy" stroke="#B5E5E8" stroke-width="2"></path>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-Copy-Copy-decoration-1" d="M779,333.2 L782,344 L785,333.2" stroke="#B5E5E8" stroke-width="2"></path>
+            <path d="M781,200 L781,240" id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-Copy-Copy-Copy" stroke="#B5E5E8" stroke-width="2"></path>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-Copy-Copy-Copy-decoration-1" d="M778,229.2 L781,240 L784,229.2" stroke="#B5E5E8" stroke-width="2"></path>
+            <path d="M337,80 L456,80" id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978" stroke="#EDEDED" stroke-width="2"></path>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-decoration-1" d="M445.2,83 L456,80 L445.2,77" stroke="#EDEDED" stroke-width="2"></path>
+            <polyline id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978" stroke="#EDEDED" stroke-width="2" points="250 253.820312 250 180.204809 500.609375 180.204809 500.609375 124"></polyline>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-decoration-1" d="M503.609375,134.8 L500.609375,124 L497.609375,134.8" stroke="#EDEDED" stroke-width="2"></path>
+            <polyline id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" stroke="#EDEDED" stroke-width="2" points="546 80 777 80 777 103.575192"></polyline>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-decoration-1" d="M774,92.7751919 L777,103.575192 L780,92.7751919" stroke="#EDEDED" stroke-width="2"></path>
+            <path d="M407.5,365 L407.5,490.503983" id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy" stroke="#39B4BD" stroke-width="3"></path>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-Copy-Copy-Copy-Copy-decoration-1" d="M404.5,479.703983 L407.5,490.503983 L410.5,479.703983" stroke="#39B4BD" stroke-width="3"></path>
+            <path d="M206.991807,81 L268.020824,81" id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy" stroke="#B5E5E8" stroke-width="2"></path>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-decoration-1" d="M257.220824,84 L268.020824,81 L257.220824,78" stroke="#B5E5E8" stroke-width="2"></path>
+            <polyline id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy" stroke="#B5E5E8" stroke-width="2" points="305 113 305 318 361 318"></polyline>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-decoration-1" d="M350.2,321 L361,318 L350.2,315" stroke="#B5E5E8" stroke-width="2"></path>
+            <polyline id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy" stroke="#B5E5E8" stroke-width="2" points="167 126 167 319.703125 218.325144 288.308594"></polyline>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy-decoration-1" d="M210.677439,296.503263 L218.325144,288.308594 L207.546621,291.384867" stroke="#B5E5E8" stroke-width="2"></path>
+            <path d="M282,288 L304.337429,288" id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-Copy" stroke="#B5E5E8" stroke-width="2"></path>
+            <polyline id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy" stroke="#F8D272" stroke-width="2" points="159 127 159 321.944504 219.867188 362.07341"></polyline>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-decoration-1" d="M209.199167,358.633447 L219.867188,362.07341 L212.50173,353.624148" stroke="#F8D272" stroke-width="2"></path>
+            <polyline id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy" stroke="#F8D272" stroke-width="2" points="286 363.824219 305.128906 363.824219 305.128906 323 360.648438 323"></polyline>
+            <path id="Survey-Survey-Copy:D96295B9-2D24-48F0-962E-0FF25055E945:0CBA29B2-C53F-4D3C-B39B-9662FE286978-Copy-Copy-Copy-decoration-1" d="M349.848437,326 L360.648438,323 L349.848437,320" stroke="#F8D272" stroke-width="2"></path>
+            <g id="Package-Home" transform="translate(369.000000, 273.000000)">
+                <g id="Rectangle-1">
+                    <use fill="#D9F3F4" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    <rect stroke="#39B4BD" stroke-width="1" x="0.5" y="0.5" width="89" height="89" rx="3"></rect>
+                </g>
+                <text id="Package-" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#05828E">
+                    <tspan x="22.3626301" y="42">Package </tspan>
+                    <tspan x="28.5017903" y="57">Home</tspan>
+                </text>
+            </g>
+            <g id="Survey-Copy" transform="translate(123.000000, 282.000000)">
+                <g id="Rectangle-1" transform="translate(36.000000, 36.000000) rotate(-315.000000) translate(-36.000000, -36.000000) ">
+                    <use fill="#E3F4E1" fill-rule="evenodd" xlink:href="#path-12"></use>
+                    <rect stroke="#209B13" stroke-width="1" x="11.5" y="11.5" width="49" height="49" rx="3"></rect>
+                </g>
+                <text id="Happy" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#209B13">
+                    <tspan x="18.3353677" y="41">Happy</tspan>
+                </text>
+            </g>
+            <g id="Survey-Copy" transform="translate(216.000000, 325.000000)">
+                <g id="Rectangle-1" transform="translate(36.000000, 36.000000) rotate(-315.000000) translate(-36.000000, -36.000000) ">
+                    <use fill="#E3F4E1" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    <rect stroke="#209B13" stroke-width="1" x="11.5" y="11.5" width="49" height="49" rx="3"></rect>
+                </g>
+                <text id="Optimal" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#209B13">
+                    <tspan x="13.843343" y="41">Optimal</tspan>
+                </text>
+            </g>
+            <g id="Survey-Copy-7" transform="translate(216.000000, 251.000000)">
+                <g id="Rectangle-1" transform="translate(36.000000, 36.000000) rotate(-315.000000) translate(-36.000000, -36.000000) ">
+                    <use fill="#FFE9EF" fill-rule="evenodd" xlink:href="#path-14"></use>
+                    <rect stroke="#F56A8C" stroke-width="1" x="11.5" y="11.5" width="49" height="49" rx="3"></rect>
+                </g>
+                <text id="Sub-" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#F23965">
+                    <tspan x="23.5489094" y="31">Sub-</tspan>
+                    <tspan x="13.843343" y="46">Optimal</tspan>
+                </text>
+            </g>
+            <g id="Package-Home-Copy" transform="translate(462.000000, 219.000000)">
+                <g id="Rectangle-1">
+                    <use fill="#D9F3F4" fill-rule="evenodd" xlink:href="#path-15"></use>
+                    <rect stroke="#39B4BD" stroke-width="1" x="0.5" y="0.5" width="69" height="69" rx="34.5"></rect>
+                </g>
+                <text id="Medical" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.602380991" fill="#05828E">
+                    <tspan x="13.3994519" y="37.1521739">Medical</tspan>
+                </text>
+            </g>
+            <g id="Package-Home-Copy-2" transform="translate(462.000000, 290.000000)">
+                <g id="Rectangle-1">
+                    <use fill="#D9F3F4" fill-rule="evenodd" xlink:href="#path-16"></use>
+                    <rect stroke="#39B4BD" stroke-width="1" x="0.5" y="0.5" width="69" height="69" rx="34.5"></rect>
+                </g>
+                <text id="Dental" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.602380991" fill="#05828E">
+                    <tspan x="16.7191971" y="37.1521739">Dental</tspan>
+                </text>
+            </g>
+            <polyline id="Line" stroke="#F8D272" stroke-width="2" points="538 327 617.299789 327 617.299789 388.481966 732 388.481966"></polyline>
+            <path id="Line-decoration-1" d="M721.2,391.481966 L732,388.481966 L721.2,385.481966" stroke="#F8D272" stroke-width="2"></path>
+            <path d="M826.944466,387 L902.945992,387" id="Line" stroke="#F8D272" stroke-width="2"></path>
+            <path id="Line-decoration-1" d="M892.145992,390 L902.945992,387 L892.145992,384" stroke="#F8D272" stroke-width="2"></path>
+            <path d="M37.9444656,586 L113.945992,586" id="Line" stroke="#F8D272" stroke-width="2"></path>
+            <path id="Line-decoration-1" d="M103.145992,589 L113.945992,586 L103.145992,583" stroke="#F8D272" stroke-width="2"></path>
+            <text id="Default-Path" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#CF9911">
+                <tspan x="37" y="577">Default Path</tspan>
+            </text>
+            <path d="M38.9444656,549 L114.945992,549" id="Line" stroke="#B5E5E8" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"></path>
+            <path id="Line-decoration-1" d="M104.145992,552 L114.945992,549 L104.145992,546" stroke="#B5E5E8" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"></path>
+            <text id="Recommended-Path" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#05828E">
+                <tspan x="38" y="540">Recommended Path</tspan>
+            </text>
+            <path d="M38.9444656,619 L114.945992,619" id="Line" stroke="#39B4BD" stroke-width="3"></path>
+            <path id="Line-decoration-1" d="M104.145992,622 L114.945992,619 L104.145992,616" stroke="#39B4BD" stroke-width="3"></path>
+            <text id="Shared-Path" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#05828E">
+                <tspan x="38" y="610">Shared Path</tspan>
+            </text>
+            <g id="Survey-Copy-2" transform="translate(37.000000, 669.000000)">
+                <g id="Rectangle-1">
+                    <use fill="#D9F3F4" fill-rule="evenodd" xlink:href="#path-17"></use>
+                    <rect stroke="#39B4BD" stroke-width="1" x="0.5" y="0.5" width="59" height="59" rx="3"></rect>
+                </g>
+                <text id="Page" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#05828E">
+                    <tspan x="17.1143391" y="35">Page</tspan>
+                </text>
+            </g>
+            <g id="Package-Home-Copy-6" transform="translate(186.000000, 665.000000)">
+                <g id="Rectangle-1">
+                    <use fill="#D9F3F4" fill-rule="evenodd" xlink:href="#path-18"></use>
+                    <rect stroke="#39B4BD" stroke-width="1" x="0.5" y="0.5" width="69" height="69" rx="34.5"></rect>
+                </g>
+                <text id="Type" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.602380991" fill="#05828E">
+                    <tspan x="22.0239707" y="37.1521739">Type</tspan>
+                </text>
+            </g>
+            <g id="Survey-Copy-6" transform="translate(107.000000, 663.000000)">
+                <g id="Rectangle-1" transform="translate(36.000000, 36.000000) rotate(-315.000000) translate(-36.000000, -36.000000) ">
+                    <use fill="#D9F3F4" fill-rule="evenodd" xlink:href="#path-19"></use>
+                    <rect stroke="#39B4BD" stroke-width="1" x="11.5" y="11.5" width="49" height="49" rx="3"></rect>
+                </g>
+                <text id="Decision" font-family="OpenSans, Open Sans" font-size="11" font-weight="normal" letter-spacing="0.458333373" fill="#05828E">
+                    <tspan x="12.3492837" y="41">Decision</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
